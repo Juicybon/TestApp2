@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUPk6uwbVyvoF8eQZrii/r8Pk9kNtM4i4x4te+CEaeR3HNf9D2dPfuh0PVltlzlzVvOFkjRg4i6sVEL4DOKbRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juicy\\source\\repos\\TestApp2\\TestApp2\\TestApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juicy\\.nuget\\packages\\system.servicemodel.syndication\\6.0.0\\system.servicemodel.syndication.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

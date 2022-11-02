@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+	<feed>
+	<feedUrl>
+		https://habr.com/rss/interesting/
+	</feedUrl>
+	<refreshTime>
+		10
+	</refreshTime>
+	</feed>
+	<proxy address="" isLocal = "false">
+		<login>
+
+		</login>
+		<password>
+
+		</password>
+	</proxy>
+</settings>

@@ -1,0 +1,37 @@
+﻿@using System.Text.RegularExpressions
+@{
+    ViewData["Title"] = "Page";
+}
+
+@*добавить время из xml*@
+<script>
+    setTimeout("location.reload(true);", @ViewData["RefreshTime"]);
+</script>
+
+<style>
+    a {
+        text-decoration: none;
+        target = "blank";
+    }
+</style>
+
+<div class="text-center">
+    <h2>Make your wishes come true</h2>
+    <h2>@ViewBag.node.Title.Text</h2>
+    <br>
+</div>
+<ul>
+    @foreach (var rssNode in ViewBag.node.Items)
+    {
+        <a href="@rssNode.Links[0].Uri.ToString();">
+            <h3><font color="111">@rssNode.Title.Text</font></h3>
+        </a>
+        <p>
+            @Regex.Replace(
+        @rssNode.Summary.Text.Substring(0, 300) + "...",
+        "<[^>]+>", string.Empty)
+        </p>
+        <p align="right">@rssNode.PublishDate.DateTime</p>
+        <br>
+    }
+</ul>

@@ -1,0 +1,9 @@
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\Settings\settings.xml
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\TestApp2.exe
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\TestApp2.dll
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\TestApp2.deps.json
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\TestApp2.runtimeconfig.json
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\TestApp2.pdb
+C:\Users\Juicy\source\repos\TestApp2\TestApp2\obj\Release\net6.0\PubTmp\Out\System.ServiceModel.Syndication.dll
